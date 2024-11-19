@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Flutter and AI & Machine learning**
 
-- 👨‍💻 All of my projects are available at [sufi12.netlify.app](sufi12.netlify.app)
-
 - 💬 Ask me about **Native and Cross platform App development**
 
 - 📫 How to reach me **ksufi7350@gmail.com**
