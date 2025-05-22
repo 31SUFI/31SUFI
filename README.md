@@ -1,6 +1,14 @@
 
 # IoT-Driven Smart Energy Meter with Home Automation — Data Science Project
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python%203.10-blue?style=for-the-badge&logo=python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/EDA%20Project-Data%20Science-green?style=for-the-badge&logo=chart-bar" alt="Data Science Badge">
+  <img src="https://img.shields.io/badge/Compatible-Google%20Colab-orange?style=for-the-badge&logo=google-colab" alt="Google Colab Badge">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Regression%20%26%20Anomaly%20Detection-red?style=for-the-badge&logo=scikit-learn" alt="ML Badge">
+</p>
+
+
 ## Overview
 
 This project is a comprehensive Data Science analysis and machine learning study built indirectly not directly as a part of my **University Final Year Project (FYP)** on an **IoT-Based Smart Energy Meter with Home Automation**. It is also completed as a core assignment for the **Data Science** course.
